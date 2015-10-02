@@ -2,6 +2,8 @@
 
 import Foundation
 
+
+var testString: String = "This is a test string!"
 //: Create an empty array to store shopping list items
 
 //: Add at least 5 items to the array using 3 different insertion methods
